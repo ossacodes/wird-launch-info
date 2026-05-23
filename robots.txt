@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ossacodes.github.io/wird-launch-info/sitemap.xml
